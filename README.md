@@ -13,3 +13,4 @@ Cookify is a recipe finder app designed to help users discover and explore vario
 - **Recipe Details:** Each recipe displays a picture of the dish, along with detailed information such as ingredients with pictures and measurements, as well as step-by-step cooking instructions.
 
 # cookify_app
+# cookify_app
